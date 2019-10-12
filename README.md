@@ -6,7 +6,7 @@ A CSS animated Background with a parallax effect.
 
 Create a **fontawesome** folder with the webfonts and the **all.css** file included in your project directory.
 
-All the files are available for free on [Fontawesome Download Link](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself) .
+All the files are available for free on [Fontawesome](https://fontawesome.com/how-to-use/on-the-web/setup/hosting-font-awesome-yourself) .
 
 ## How to customize
 
